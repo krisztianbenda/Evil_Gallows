@@ -6,9 +6,7 @@
 //  Copyright © 2017. Benda Krisztián. All rights reserved.
 //
 
-#include <iostream>
 #include "Gallows.hpp"
-#include <unistd.h>
 
 int main(int argc, const char * argv[]) {
     Gallows gallows("dictionary.txt");
